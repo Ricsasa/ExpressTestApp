@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Ricsasa/ExpressTestApp/issues"
   },
-  "homepage": "https://github.com/Ricsasa/ExpressTestApp"
+  "homepage": "https://github.com/Ricsasa/ExpressTestApp",
+  "dependencies": {
+    "express": "^4.12.0"
+  }
 }
